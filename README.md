@@ -27,6 +27,6 @@
 # 📔 이미지 전처리 코드:
 | **커드 이름 :** | **코드 설명:** | **코드 링크:** |
 | ------------- |:-------------:| -----:|
-|다양한 유형의 히스토그램 사용|다양한 유형의 히스토그램으로 데이터 이미지를 실험합니다.| $1600 |
-|이미지 모양 픽셀 히스토그램 분석| 히스토그램을 분석하여 데이터 이미지 값을 이해합니다.| $1600 |
-|히스토그램 평활화 및 색 공간 변환기| 데이터 이미지를 평활화 하고 다른 칼라 스페이스로 변환시킨다.| $1600 |
+|**다양한 유형의 히스토그램 사용|다양한 유형의 히스토그램으로 데이터 이미지를 실험합니다.**| [코드 링크](https://github.com/grromyroom/Preprocessing/blob/main/Data%20Image%20Preprocessing/Different_Histogram_Analysis.ipynb) |
+|**이미지 모양 픽셀 히스토그램 분석| 히스토그램을 분석하여 데이터 이미지 값을 이해합니다.**| [코드 링크](https://github.com/grromyroom/Preprocessing/blob/main/Data%20Image%20Preprocessing/Histogram_Preprocessing.ipynb) |
+|**히스토그램 평활화 및 색 공간 변환기| 데이터 이미지를 평활화 하고 다른 칼라 스페이스로 변환시킨다.**| [코드 링크](https://github.com/grromyroom/Preprocessing/blob/main/Data%20Image%20Preprocessing/Histogram_Equalization_and_Color_Space_Converter.ipynb) |
